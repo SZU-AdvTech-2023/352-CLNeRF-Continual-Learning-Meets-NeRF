@@ -1,0 +1,6 @@
+@inproceedings{REPO352,
+    author = "Zhipeng Cai, Matthias M¨¹ller",
+    booktitle = "ICCV",
+    title = "{CLNeRF: Continual Learning Meets NeRF}",
+    year = "2023"
+}
